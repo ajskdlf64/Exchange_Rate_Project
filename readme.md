@@ -20,10 +20,10 @@
 
  - 선형회귀를 이용해 many - to - one Modeling
  - 예측 시점이 뒤로 갈수록 RMSE가 매우 높아짐.
- - [INPUT 5 DAYS -> FEATURE 1 DAYS]([https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/03.%20Model%201%20%20(USD%2C%20Regression%2C%20%20Linear%20Regression%2C%20Sklearn%2C%205_1).ipynb](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter Notebook/03. Model 1  (USD%2C Regression%2C  Linear Regression%2C Sklearn%2C 5_1).ipynb)
- - [INPUT 10 DAYS -> FEATURE 5 DAYS]([https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/04.%20Model%202%20%20(USD%2C%20Regression%2C%20%20Linear%20Regression%2C%20Sklearn%2C%2010_5).ipynb](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter Notebook/04. Model 2  (USD%2C Regression%2C  Linear Regression%2C Sklearn%2C 10_5).ipynb)
- - [INPUT 20 DAYS -> FEATURE 20 DAYS]([https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/08.%20Model%206%20%20(USD%2C%20Regression%2C%20%20Linear%20Regression%2C%20Sklearn%2C%2020_20).ipynb](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter Notebook/08. Model 6  (USD%2C Regression%2C  Linear Regression%2C Sklearn%2C 20_20).ipynb)
- - [INPUT 120 DAYS -> FEATURE 120 DAYS]([https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/07.%20Model%205%20%20(USD%2C%20Regression%2C%20%20Linear%20Regression%2C%20Sklearn%2C%20120_120).ipynb](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter Notebook/07. Model 5  (USD%2C Regression%2C  Linear Regression%2C Sklearn%2C 120_120).ipynb)
+ - [INPUT 5 DAYS -> FEATURE 1 DAYS](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/03.%20Model%201%20%20(USD%2C%20Regression%2C%20%20Linear%20Regression%2C%20Sklearn%2C%205_1).ipynb)
+ - [INPUT 10 DAYS -> FEATURE 5 DAYS](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/04.%20Model%202%20%20(USD%2C%20Regression%2C%20%20Linear%20Regression%2C%20Sklearn%2C%2010_5).ipynb)
+ - [INPUT 20 DAYS -> FEATURE 20 DAYS](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/08.%20Model%206%20%20(USD%2C%20Regression%2C%20%20Linear%20Regression%2C%20Sklearn%2C%2020_20).ipynb)
+ - [INPUT 120 DAYS -> FEATURE 120 DAYS](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/07.%20Model%205%20%20(USD%2C%20Regression%2C%20%20Linear%20Regression%2C%20Sklearn%2C%20120_120).ipynb)
 
 
 
@@ -36,7 +36,7 @@
        .......
        이렇게 60일까지 예측
  - 1년까지 가기에는 성능이 매우 떨어지나, 3개월(시장일 기준 60일) 정도는 흐름을 파악할 수 있음.
- - [Virtual Model]([https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/19.%20Model%2017%20%20(USD%2C%20Regression%2C%20LightGBM%2C%20Sklearn%2C%2060_1_60%2C%20Virtual%2C%20Test%3D2019_2020).ipynb](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter Notebook/19. Model 17  (USD%2C Regression%2C LightGBM%2C Sklearn%2C 60_1_60%2C Virtual%2C Test%3D2019_2020).ipynb)
+ - [Virtual Model](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/19.%20Model%2017%20%20(USD%2C%20Regression%2C%20LightGBM%2C%20Sklearn%2C%2060_1_60%2C%20Virtual%2C%20Test%3D2019_2020).ipynb)
 
 
 
@@ -44,7 +44,7 @@
 
  - 과거 60개의 데이터를 이용해 1~60일을 각각 60개의 모델로 예측
  - 10일이 지난 시점부터 예측력이 현저하게 떨어짐.
- - [1 ~ 60 Model]([https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/23.%20Final%20Regression%20Model%20(sklearn%20Linear%20Regression%2C%202019).ipynb](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter Notebook/23. Final Regression Model (sklearn Linear Regression%2C 2019).ipynb)
+ - [1 ~ 60 Model](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/23.%20Final%20Regression%20Model%20(sklearn%20Linear%20Regression%2C%202019).ipynb)
 
 
 
