@@ -5,14 +5,14 @@
 ### 1. DB 구축
 
 - 한국수출입은행의 Open API를 활용하여 2010년 ~ 2019년까지의 환율 데이터 DB 구축.
-- [DB Code]([https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/01.%20Exchange%20Rate%20(exchange%20bank%20open%20api).ipynb](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter Notebook/01. Exchange Rate (exchange bank open api).ipynb)
+- [DB Code](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/01.%20Exchange%20Rate%20(exchange%20bank%20open%20api).ipynb)
 
 
 
 ### 2. EDA
 
 - 탐색적 데이터 분석을 통한 데이터 특성 파악.
-- [EDA Code]([https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/02.%20EDA.ipynb](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter Notebook/02. EDA.ipynb))
+- [EDA Code](https://github.com/ajskdlf64/Project-Exchange-Rate/blob/master/Jupyter%20Notebook/02.%20EDA.ipynb)
 
 
 
